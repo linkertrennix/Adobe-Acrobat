@@ -208,4 +208,4 @@ This repository serves as the official landing page for Adobe Acrobat. The softw
 **Get the most recent version of Adobe Acrobat today!**
 
 ---
-**Last updated:** 2026-11-12 18:46:03 UTC
+**Last updated:** 2026-11-13 00:01:51 UTC
